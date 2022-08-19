@@ -3,7 +3,7 @@
 
 ## About this Project
 - This Project is build by Using Html and CSS .                
-- This is a home page of Saas .
+- This is a home page of Hosting .
 - i use most of flexbox in this project and also it's  mobile responsive.  
 
 ---
